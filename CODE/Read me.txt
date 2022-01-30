@@ -1,3 +1,4 @@
 **This is a python code, which converts any document to audiofile.
 **This code runs properly on jupyternotebook only.
 **To understand clearly about the code-run read the comments mentioned in the code.
+NOTE: The code file and the pdf file should be on same folder.
